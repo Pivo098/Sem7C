@@ -1,0 +1,15 @@
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\bin\Debug\net7.0\Primer_3.exe
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\bin\Debug\net7.0\Primer_3.deps.json
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\bin\Debug\net7.0\Primer_3.runtimeconfig.json
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\bin\Debug\net7.0\Primer_3.dll
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\bin\Debug\net7.0\Primer_3.pdb
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.csproj.AssemblyReference.cache
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.AssemblyInfoInputs.cache
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.AssemblyInfo.cs
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.csproj.CoreCompileInputs.cache
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.dll
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\refint\Primer_3.dll
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.pdb
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\Primer_3.genruntimeconfig.cache
+C:\Users\Kompich\Desktop\Sem7\Primeri\Primer_3\obj\Debug\net7.0\ref\Primer_3.dll
